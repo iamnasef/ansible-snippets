@@ -6,6 +6,7 @@
 </p>
 
 <img src="written-in-yaml.svg"/>
+<img src="made-with-ansible.svg"/>
 <br />
 <br />
 Ansible Snippets is a set of miscellaneous and unrelated ansible playbooks, built to try different configurations.
