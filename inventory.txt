@@ -1,4 +1,4 @@
 [zonea]
-machine1 ansible_host=192.168.169.157 ansible_port=1234
+machine1 ansible_host=192.168.169.157 ansible_port=1234 ansible_user=kali ansible_password=kali
 [zoneb]
-machine2 ansible_host=192.168.169.159 ansible_port=1234
+machine2 ansible_host=192.168.169.159 ansible_port=1234 ansible_user=kali ansible_password=kali
