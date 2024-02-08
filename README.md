@@ -9,9 +9,9 @@
 <img src="supports/imgs/made-with-ansible.svg"/>
 <br />
 <br />
-Ansible Snippets is a set of miscellaneous and unrelated ansible playbooks, built to try different configurations.
+Ansible snippets is a set of miscellaneous and unrelated ansible snippets, built to try different configurations.
 
-I wanted a place to test miscellaneous ansible playbooks.
+I wanted a place to test miscellaneous ansible snippets.
 
 **This is why I created this project**.
 
