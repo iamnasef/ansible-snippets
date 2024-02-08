@@ -1,4 +1,4 @@
 [zonea]
-192.168.169.157
+machine1 ansible_host=192.168.169.157
 [zoneb]
-192.168.169.159
+machine2 ansible_host=192.168.169.159
