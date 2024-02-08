@@ -2,11 +2,11 @@
 <div align="center">
 
 <p align="center">
-  <img src="githubcovers.png" />
+  <img src="supports/imgs/covers.png" />
 </p>
 
-<img src="written-in-yaml.svg"/>
-<img src="made-with-ansible.svg"/>
+<img src="supports/imgs/written-in-yaml.svg"/>
+<img src="supports/imgs/made-with-ansible.svg"/>
 <br />
 <br />
 Ansible Snippets is a set of miscellaneous and unrelated ansible playbooks, built to try different configurations.
